@@ -1,0 +1,21 @@
+.LoginForm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.LoginInputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: left !important;
+}
+.userLabel{
+   text-align: left !important;
+}
+.senhaLabel{
+    text-align: left !important;
+}
+.buttonMargin{
+    margin: 10px;
+}
